@@ -1,6 +1,6 @@
 {
   "name": "esmbuild",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "main": "",
   "license": "MIT",
   "author": {
@@ -16,6 +16,7 @@
   },
   "devDependencies": {
     "@babel/core": "^7.20.5",
+    "@morgs32/eslint-config": "^1.0.1",
     "@storybook/addon-actions": "^6.5.15",
     "@storybook/addon-essentials": "^6.5.15",
     "@storybook/addon-interactions": "^6.5.15",
