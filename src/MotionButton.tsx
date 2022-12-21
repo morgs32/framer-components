@@ -1,9 +1,9 @@
-import React from "react";
-import { motion } from "framer-motion";
+import React from 'react';
+import { motion } from 'framer-motion';
 
 const style: React.CSSProperties = {
-  backgroundColor: "red",
-  display: "inline-block",
+  backgroundColor: 'red',
+  display: 'inline-block',
   width: 100,
   height: 100,
 };
