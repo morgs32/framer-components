@@ -42,6 +42,7 @@
   },
   "dependencies": {
     "@elgorditosalsero/react-gtm-hook": "^2.6.0",
+    "@splitbee/web": "^0.3.0",
     "react-snowfall": "^1.2.1"
   }
 }
